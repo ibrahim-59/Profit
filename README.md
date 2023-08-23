@@ -1,4 +1,4 @@
-# ProFit App
+# ProFit App with RestFull Api
 - in this app you can search for meal to add in breakfast or dinner or lunch
 - The program calculates the number of calories, proteins and fats
 - you cand add meal in favourite
@@ -22,7 +22,4 @@
 
 
 
-![WhatsApp Image 2023-08-23 at 7 58 30 PM (1)]()
 
-
-![WhatsApp Image 2023-08-23 at 7 58 30 PM]()
